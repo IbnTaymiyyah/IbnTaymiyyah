@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **GYM Desktop App**
 
-- 🌱 I’m currently learning **Advanced Java , Docker ,and SqlLite.**
+- 🌱 I’m currently learning **Advanced Java , Docker ,and Spring Boot.**
 
-- 📝 I regularly write articles on [https://errorteam2.blogspot.com/](https://errorteam2.blogspot.com/)
+- 📝 I regularly write articles on [Error Team Blog](https://errorteam2.blogspot.com/)
 
 - 📫 How to reach me **engadhamelsayed@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZvkNkiq4QWZOEGwSP6THZAXucumdbu7P/view?usp=drive_link](https://drive.google.com/file/d/1ZvkNkiq4QWZOEGwSP6THZAXucumdbu7P/view?usp=drive_link)
+- 📄 Know about my experiences [Projects & Resume](https://drive.google.com/drive/u/4/folders/1bvpWLpJVmR3PlGmBIMMwvE__uF2j5Zp4)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
