@@ -42,7 +42,7 @@
 <td width="50%" align="center">
   <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=ibntaymiyyah&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ibntaymiyyah&theme=dark&hide_border=false" /> 
+  <img  title="" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ibntaymiyyah&theme=dark&hide_border=false" /> 
 </td>
 
 
@@ -53,6 +53,11 @@
   </td>
 </tr>
 </table>
+
+<div align=center>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/674341425434bf319aa2df57?variant=dark" alt="roadmap.sh"/></a>
+  </div>
+</p>      
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
@@ -64,7 +69,7 @@
 </div>
 
 <!--- trophy (start) -->
-</p>        
+  
 <!--- stats (end) -->
 
 <br>
