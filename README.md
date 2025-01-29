@@ -2,7 +2,6 @@
 <h3 align="center">Software Engineer</h3>
 
 
-- 🔭 I’m currently working on **GYM Desktop App**
 
 - 🌱 I’m currently learning **Advanced Java , Docker ,and Spring Boot.**
 
