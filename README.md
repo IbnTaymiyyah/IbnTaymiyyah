@@ -55,7 +55,7 @@
 </table>
 
 <div align=center>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/674341425434bf319aa2df57?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/674341425434bf319aa2df57?variant=dark&roadmaps=java%2Csql" alt="roadmap.sh"/></a>
   </div>
 </p>      
 <!--- stats (end) -->
