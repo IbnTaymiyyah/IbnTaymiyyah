@@ -26,7 +26,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=c,cpp,java,html,css,mysql,docker,git,github,firebase,linux,vim&perline=6"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=c,cpp,java,php,html,css,mysql,docker,git,github,linux,vim&perline=6"  />
 </p>
 <br />
 
