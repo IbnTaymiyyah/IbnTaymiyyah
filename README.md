@@ -12,12 +12,13 @@
 
 - 📄 Know about my experiences [Projects & Resume](https://drive.google.com/drive/u/4/folders/1bvpWLpJVmR3PlGmBIMMwvE__uF2j5Zp4)
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Reach me :</h3>
 <p align="center">
 <a href="https://linkedin.com/in/ibntaymiyya" target="blank"><img align="center"  src="https://skillicons.dev/icons?i=linkedin&perline=10"  width="40" /></a>
 <a href="mailto:engadhamelsayed@gmail.com" target="blank"><img align="center"  src="https://skillicons.dev/icons?i=gmail&perline=10"  width="40" /></a>
 <a href="https://codeforces.com/profile/ibntaymiyya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ibntaymiyya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ibntaymiyya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ibntaymiyya" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/IbnTaymiyya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ibntaymiyya" height="50" width="40" /></a>
 </p>
 
 
