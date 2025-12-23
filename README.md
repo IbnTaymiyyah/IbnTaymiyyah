@@ -4,13 +4,12 @@
 
 
 
-- 🌱 I’m currently learning **Advanced Java , Docker ,and Spring Boot.**
+- 🌱 I’m currently learning **Advanced Java , Spring Boot.**
 
-- 📝 I regularly write articles on [Error Team Blog](https://errorteam2.blogspot.com/)
+- 📝 I regularly write articles on [Syntixar Blog](https://syntixar.blogspot.com/)
 
 - 📫 How to reach me **engadhamelsayed@gmail.com**
 
-- 📄 Know about my experiences [Projects & Resume](https://drive.google.com/drive/u/4/folders/1bvpWLpJVmR3PlGmBIMMwvE__uF2j5Zp4)
 
 <h3 align="center">Reach me :</h3>
 <p align="center">
